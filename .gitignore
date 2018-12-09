@@ -11,3 +11,5 @@ dist/*
 checkpoint
 htmlcov
 mnist
+
+.idea
